@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qantanas
+- 👀 I’m interested in Programming and Gaming 🎮. 
+- 🌱 I’m currently learning Computer Science at University of Debrecen.
+- 🖥 Coding in C#, C++, JavaScript / NodeJS. Database: mySQL
