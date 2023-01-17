@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @qantanas
-- 👀 I’m interested in Programming and Gaming 🎮. 
+- 👀 I’m interested in Programming and Gaming 🎮.
 - 🌱 I’m currently learning Computer Science at University of Debrecen.
-- 🖥 Coding in C#, webdev (JS / NodeJS + mySQL)
-- 📍 Goals for 2022: Java and Python (at University)
+- 🖥 Coding in: Python, JavaScript, C#, sometimes Java.
